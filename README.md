@@ -1,2 +1,3 @@
-# Front end: JSP
-# Back end: Servlet
+Front end: JSP
+
+Back end: Servlet
